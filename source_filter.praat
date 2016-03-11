@@ -13,6 +13,7 @@ pulses = To PointProcess
 source = To Sound (phonation): 44100, 0.6, 0.05, 0.7, 0.03, 3.0, 4.0
 removeObject: pitchTier, pulses
 selectObject: source
+Scale peak: 0.99
 View & Edit
 pauseScript: "Source generated "
 ########################################################################
